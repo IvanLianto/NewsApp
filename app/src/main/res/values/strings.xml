@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="search_hint">search news</string>
+    <string name="image_search">Image search</string>
+    <string name="news_not_found">News not found</string>
+    <string name="poster_view">Poster</string>
+    <string name="image_dark_background">Image Dark Background</string>
+    <string name="title">Daftar Pejabat yang Dipanggil oleh Jokowi</string>
+    <string name="favorite_news">Favorite News</string>
+    <string name="ok">OK</string>
+    <string name="error">ERROR</string>
+    <string name="check_your_internet">PLease Check Your Internet Connection!</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="favorite_no_found">Favorite no found</string>
+    <string name="success">SUCCESS</string>
+    <string name="success_favorite">Successfully add this article</string>
+    <string name="no">No</string>
+    <string name="success_unfavorite">Successfully unfavorite this article</string>
+    <string name="message_favorite">Do you want to add this article to your favorite ?</string>
+    <string name="message_unfavorite">Do you want to unfavorite this article  ?</string>
+
+</resources>
